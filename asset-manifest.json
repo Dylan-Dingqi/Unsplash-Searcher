@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Unsplash-Searcher/static/css/main.18044296.chunk.css",
-    "main.js": "/Unsplash-Searcher/static/js/main.9383571a.chunk.js",
-    "main.js.map": "/Unsplash-Searcher/static/js/main.9383571a.chunk.js.map",
-    "runtime-main.js": "/Unsplash-Searcher/static/js/runtime-main.112b4280.js",
-    "runtime-main.js.map": "/Unsplash-Searcher/static/js/runtime-main.112b4280.js.map",
-    "static/js/2.b7a10976.chunk.js": "/Unsplash-Searcher/static/js/2.b7a10976.chunk.js",
-    "static/js/2.b7a10976.chunk.js.map": "/Unsplash-Searcher/static/js/2.b7a10976.chunk.js.map",
-    "index.html": "/Unsplash-Searcher/index.html",
-    "precache-manifest.d744acfad59315875a4f1ecae938a171.js": "/Unsplash-Searcher/precache-manifest.d744acfad59315875a4f1ecae938a171.js",
-    "service-worker.js": "/Unsplash-Searcher/service-worker.js",
-    "static/css/main.18044296.chunk.css.map": "/Unsplash-Searcher/static/css/main.18044296.chunk.css.map",
-    "static/js/2.b7a10976.chunk.js.LICENSE.txt": "/Unsplash-Searcher/static/js/2.b7a10976.chunk.js.LICENSE.txt"
+    "main.css": "/unsplash-searcher/static/css/main.18044296.chunk.css",
+    "main.js": "/unsplash-searcher/static/js/main.9383571a.chunk.js",
+    "main.js.map": "/unsplash-searcher/static/js/main.9383571a.chunk.js.map",
+    "runtime-main.js": "/unsplash-searcher/static/js/runtime-main.0e2594f8.js",
+    "runtime-main.js.map": "/unsplash-searcher/static/js/runtime-main.0e2594f8.js.map",
+    "static/js/2.b7a10976.chunk.js": "/unsplash-searcher/static/js/2.b7a10976.chunk.js",
+    "static/js/2.b7a10976.chunk.js.map": "/unsplash-searcher/static/js/2.b7a10976.chunk.js.map",
+    "index.html": "/unsplash-searcher/index.html",
+    "precache-manifest.d80348b3799910b65b92aefa41e34517.js": "/unsplash-searcher/precache-manifest.d80348b3799910b65b92aefa41e34517.js",
+    "service-worker.js": "/unsplash-searcher/service-worker.js",
+    "static/css/main.18044296.chunk.css.map": "/unsplash-searcher/static/css/main.18044296.chunk.css.map",
+    "static/js/2.b7a10976.chunk.js.LICENSE.txt": "/unsplash-searcher/static/js/2.b7a10976.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.112b4280.js",
+    "static/js/runtime-main.0e2594f8.js",
     "static/js/2.b7a10976.chunk.js",
     "static/css/main.18044296.chunk.css",
     "static/js/main.9383571a.chunk.js"
