@@ -38,7 +38,7 @@ class App extends React.Component {
                 <SearchBar onSubmit={this.onSearchSubmit}/>
                 {
                     this.state.isLoading?
-                    <div class="loader"></div>:
+                    <div className="loader"></div>:
                     <ImageList images={this.state.images}/>
                 }
                 {/* <ImageList images={this.state.images}/> */}
